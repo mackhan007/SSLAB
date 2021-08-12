@@ -30,8 +30,8 @@ int yyerror()
 
 
 /* run cmd
-    yacc -d 2.y  
-    lex 2.l
+    yacc -d 6b.y  
+    lex 6b.l
     gcc lex.yy.c y.tab.c -ll
     ./a.out
 */
