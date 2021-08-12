@@ -1,0 +1,5 @@
+T1 C / D
+T2 B * T1
+T3 A + T2
+T4 T3 - E
+S T4 = ?

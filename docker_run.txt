@@ -1,0 +1,1 @@
+docker run --rm -it -v $(pwd):/Users/Macky/Macky/program/cpp linux
